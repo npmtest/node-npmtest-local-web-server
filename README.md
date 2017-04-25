@@ -1,6 +1,6 @@
 # npmtest-local-web-server
 
-#### test coverage for  [local-web-server (v1.2.7)](https://github.com/75lb/local-web-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-local-web-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-local-web-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-local-web-server.svg)](https://travis-ci.org/npmtest/node-npmtest-local-web-server)
+#### basic test coverage for  [local-web-server (v1.2.7)](https://github.com/75lb/local-web-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-local-web-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-local-web-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-local-web-server.svg)](https://travis-ci.org/npmtest/node-npmtest-local-web-server)
 
 #### A simple web-server for productive front-end development
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-local-web-server/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-local-web-server/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-local-web-server/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-local-web-server/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-local-web-server/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-local-web-server/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-local-web-server/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-local-web-server/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-local-web-server/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-local-web-server/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-local-web-server/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-local-web-server/build/coverage.html/index.html)
 
